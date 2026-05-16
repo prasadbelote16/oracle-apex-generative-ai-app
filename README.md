@@ -17,9 +17,10 @@ Oracle Database
 PL/SQL
 Google Gemini 2.5 Flash API
 HTML/CSS
+
 📸 Screenshots
 
-(Add your screenshots here)
+![AI App Screenshot](APP_File/AI.png)
 
 🚀 Future Enhancements
 AI Chat History
@@ -27,13 +28,14 @@ Document Summarization
 Voice-based AI Prompts
 AI SQL Assistant
 Multi-user Support
+
 👨‍💻 Author
 
 Prasad Belote
 
 🔗 LinkedIn
 
-[(Add your LinkedIn Profile)](https://www.linkedin.com/in/prasad-belote/
+[(Prasad Belote Linkedin Profile)](https://www.linkedin.com/in/prasad-belote/
 )
 
 ⭐ If you like this project, give it a star!
