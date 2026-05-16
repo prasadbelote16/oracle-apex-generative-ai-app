@@ -2,7 +2,7 @@ Oracle APEX Generative AI App 🚀
 
 A modern AI-powered web application developed using Oracle APEX 26.1 integrated with Google Gemini AI.
 
-✨ Features
+✨ Features :-
 AI Prompt & Response Interface
 Google Gemini API Integration
 Oracle Generative AI Service
@@ -11,7 +11,7 @@ Custom Modern CSS Design
 Real-time AI Responses
 PL/SQL Backend Processing
 
-🛠️ Tech Stack
+🛠️ Tech Stack:-
 Oracle APEX 26.1
 Oracle Database
 PL/SQL
